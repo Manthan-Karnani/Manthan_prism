@@ -9,7 +9,13 @@
 #### Markdown is a markup language which can be compiled into markdown file and later on it is converted to html code and displayed. It is not just used by programmers but also ebook witers as it can be later converted to html or pdf format
 
 ### basic markdown syntax
-hi \
-bye 
+hashtag is used for heading more hashtag means lesser size\ 
+backslash is used to leave a line \
+use star to make a test bold \
+use hiphen for unordered list \
+Use square brackets containing link text followed by parentheses containing a URL to include a hyperlink \
+Use an exclamation mark followed by square brackets containing alt text followed by parentheses
+containing a URL or path to a file to include an image
+
 
 
