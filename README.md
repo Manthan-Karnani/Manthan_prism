@@ -9,5 +9,6 @@
 #### Markdown is a markup language which can be compiled into markdown file and later on it is converted to html code and displayed. It is not just used by programmers but also ebook witers as it can be later converted to html or pdf format
 
 ### basic markdown syntax
-#### -hi \ hi
+#### -hi 
+hi
 
